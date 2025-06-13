@@ -1,8 +1,7 @@
 # API:
 #   - Risk free rate from FRED (10 year Treasury yield)
-#   - Market return for the S&P 500 over the past year
+#   - Market return S&P 500 
 #   - Stock 
-#   - Long-term debt & equity from Yahoo! Finance
 
 import requests
 import numpy as np
